@@ -2,3 +2,5 @@
 - Nikah muda
 - Jualan bukan jadi PNS 
 - Sakit Jiwa 
+- Laravel 
+- Python
